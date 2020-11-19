@@ -1,0 +1,9 @@
+C:\ASP.NET\admin2.Models\bin\Debug\netstandard2.0\admin2.Models.deps.json
+C:\ASP.NET\admin2.Models\bin\Debug\netstandard2.0\admin2.Models.dll
+C:\ASP.NET\admin2.Models\bin\Debug\netstandard2.0\admin2.Models.pdb
+C:\ASP.NET\admin2.Models\obj\Debug\netstandard2.0\admin2.Models.csprojAssemblyReference.cache
+C:\ASP.NET\admin2.Models\obj\Debug\netstandard2.0\admin2.Models.AssemblyInfoInputs.cache
+C:\ASP.NET\admin2.Models\obj\Debug\netstandard2.0\admin2.Models.AssemblyInfo.cs
+C:\ASP.NET\admin2.Models\obj\Debug\netstandard2.0\admin2.Models.csproj.CoreCompileInputs.cache
+C:\ASP.NET\admin2.Models\obj\Debug\netstandard2.0\admin2.Models.dll
+C:\ASP.NET\admin2.Models\obj\Debug\netstandard2.0\admin2.Models.pdb

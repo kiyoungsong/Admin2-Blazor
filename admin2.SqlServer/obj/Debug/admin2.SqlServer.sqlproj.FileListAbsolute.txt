@@ -1,0 +1,10 @@
+C:\ASP.NET\admin2.SqlServer\bin\Debug\admin2.SqlServer.dacpac
+C:\ASP.NET\admin2.SqlServer\bin\Debug\admin2.SqlServer.dll
+C:\ASP.NET\admin2.SqlServer\bin\Debug\admin2.SqlServer.pdb
+C:\ASP.NET\admin2.SqlServer\obj\Debug\admin2.SqlServer.sqlprojAssemblyReference.cache
+C:\ASP.NET\admin2.SqlServer\obj\Debug\Model.xml
+C:\ASP.NET\admin2.SqlServer\obj\Debug\refactor.xml
+C:\ASP.NET\admin2.SqlServer\obj\Debug\postdeploy.sql
+C:\ASP.NET\admin2.SqlServer\obj\Debug\predeploy.sql
+C:\ASP.NET\admin2.SqlServer\obj\Debug\admin2.SqlServer.dll
+C:\ASP.NET\admin2.SqlServer\obj\Debug\admin2.SqlServer.pdb
